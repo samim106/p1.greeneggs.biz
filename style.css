@@ -1,8 +1,16 @@
 body
 {
-	font-family: 	Tahoma,Arial;
-	font-size:		medium;
-	margin:			0% 20%;
+	font-family: 		Tahoma,Arial;
+	font-size:			medium;
+	margin:				5% 20%;
+	background-color:	#EFF2FB;
+}
+
+#container
+{
+	background-color:	#fff;
+	padding:			20px 20px;
+	border:				1px solid #ccc;
 }
 
 #name
