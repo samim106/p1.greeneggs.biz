@@ -1,0 +1,18 @@
+body
+{
+	font-family: 	Tahoma,Arial;
+	font-size:		medium;
+	margin:			0% 20%;
+}
+
+#name
+{
+	font-family:		Verdana;
+	color:				#08088A;
+	border-bottom:		5px solid #CEE3F6;
+}
+
+#about h2
+{
+	color:			#81BEF7;
+}
